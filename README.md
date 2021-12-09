@@ -11,10 +11,9 @@ Data Collection:
 
 > I am initially going to use one dataset that is the extension of multiple datasets provided on [Kaggle here labeled “states_all_extended"](https://www.kaggle.com/noriuk/us-education-datasets-unification-project?select=states_all_extended.csv)
 
-Different parts of this set are sourced by different agencies and combined in the main file I will be using:
+Different parts of this set are sourced by different agencies and combined in the main file I will be using. Most of the data is sourced by the U.S. Census Bureau and the National Center for Education Statistics (NCES):
 
-> Most of the data is sourced by the U.S. Census Bureau and the National Center for Education Statistics (NCES)
-The enrollment data is collected from the National Center for [Education Statistics (NCES) official website](https://nces.ed.gov/ccd/stnfis.asp)
+> The enrollment data is collected from the National Center for [Education Statistics (NCES) official website](https://nces.ed.gov/ccd/stnfis.asp)
 
 > The financial data/revenue is collected from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/school-finances/data/tables.html)
 
