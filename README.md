@@ -22,5 +22,14 @@ Different parts of this set are sourced by different agencies and combined in th
 
 ### Key Questions
 
+-	Does the federal/state and local revenue correlate with the scores in grades 4 and 8 NAEP Assessments?
+
+-	Is there a correlation between federal/state/local revenue and instruction expenditure and is there a correlation between instruction expenditure and average NAEP assessment scores?
+
+-	The information on different demographics is limited but most of the data is from the recent years so I’d like to look for correlations between scores and different demographics as well. 
+
+-	The data for the NAEP assessments was last recorded in 2019 and before the pandemic so I am very interested in coming back to this project in a year or two and include the assessment scores for the NAEP testing after the pandemic with the prediction of what we thought/forecasted the scores to be at in each state. 
+
+
 ### Link to my Tableau Story
 - coming soon ...
