@@ -16,11 +16,9 @@ Different parts of this set are sourced by different agencies and combined in th
 > Most of the data is sourced by the U.S. Census Bureau and the National Center for Education Statistics (NCES)
 The enrollment data is collected from the National Center for [Education Statistics (NCES) official website](https://nces.ed.gov/ccd/stnfis.asp)
 
+> The financial data/revenue is collected from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/school-finances/data/tables.html)
 
-
-The financial data/revenue is collected from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/school-finances/data/tables.html)
-
-The academic achievement and assessment scores are collected based on [the Nation’s Report Card](https://www.nationsreportcard.gov/ndecore/xplore/NDE)
+> The academic achievement and assessment scores are collected based on [the Nation’s Report Card](https://www.nationsreportcard.gov/ndecore/xplore/NDE)
 
 
 ### Key Questions
